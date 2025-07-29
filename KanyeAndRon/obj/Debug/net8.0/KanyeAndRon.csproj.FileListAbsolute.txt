@@ -1,0 +1,17 @@
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\bin\Debug\net8.0\KanyeAndRon.exe
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\bin\Debug\net8.0\KanyeAndRon.deps.json
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\bin\Debug\net8.0\KanyeAndRon.runtimeconfig.json
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\bin\Debug\net8.0\KanyeAndRon.dll
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\bin\Debug\net8.0\KanyeAndRon.pdb
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.csproj.AssemblyReference.cache
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.AssemblyInfoInputs.cache
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.AssemblyInfo.cs
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.csproj.CoreCompileInputs.cache
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAnd.EDF464E0.Up2Date
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.dll
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\refint\KanyeAndRon.dll
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.pdb
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\KanyeAndRon.genruntimeconfig.cache
+C:\Users\Thai\Desktop\repos\KanyeAndRon\KanyeAndRon\obj\Debug\net8.0\ref\KanyeAndRon.dll
