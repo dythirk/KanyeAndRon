@@ -19,7 +19,10 @@ namespace KanyeAndRon
 
             var kanyeQuote = JObject.Parse(kanyeResponse).GetValue("quote").ToString();
 
-            Console.WriteLine(kanyeQuote);
-        } 
+            Console.WriteLine($"----------------");
+            Console.WriteLine($"Kanye: '{kanyeQuote}'");
+            Console.WriteLine($"----------------");
+
+        }
     }
 }

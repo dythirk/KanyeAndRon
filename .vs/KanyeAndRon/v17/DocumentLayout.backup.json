@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Thai\\Desktop\\repos\\KanyeAndRon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9526163-1D33-4C30-90A1-8D4EB2AD8342}|KanyeAndRon\\KanyeAndRon.csproj|c:\\users\\thai\\desktop\\repos\\kanyeandron\\kanyeandron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9526163-1D33-4C30-90A1-8D4EB2AD8342}|KanyeAndRon\\KanyeAndRon.csproj|solutionrelative:kanyeandron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9526163-1D33-4C30-90A1-8D4EB2AD8342}|KanyeAndRon\\KanyeAndRon.csproj|c:\\users\\thai\\desktop\\repos\\kanyeandron\\kanyeandron\\quotegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9526163-1D33-4C30-90A1-8D4EB2AD8342}|KanyeAndRon\\KanyeAndRon.csproj|solutionrelative:kanyeandron\\quotegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9526163-1D33-4C30-90A1-8D4EB2AD8342}|KanyeAndRon\\KanyeAndRon.csproj|c:\\users\\thai\\desktop\\repos\\kanyeandron\\kanyeandron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9526163-1D33-4C30-90A1-8D4EB2AD8342}|KanyeAndRon\\KanyeAndRon.csproj|solutionrelative:kanyeandron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "QuoteGenerator.cs",
               "DocumentMoniker": "C:\\Users\\Thai\\Desktop\\repos\\KanyeAndRon\\KanyeAndRon\\QuoteGenerator.cs",
               "RelativeDocumentMoniker": "KanyeAndRon\\QuoteGenerator.cs",
               "ToolTip": "C:\\Users\\Thai\\Desktop\\repos\\KanyeAndRon\\KanyeAndRon\\QuoteGenerator.cs",
               "RelativeToolTip": "KanyeAndRon\\QuoteGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T17:20:37.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Thai\\Desktop\\repos\\KanyeAndRon\\KanyeAndRon\\Program.cs",
               "RelativeDocumentMoniker": "KanyeAndRon\\Program.cs",
               "ToolTip": "C:\\Users\\Thai\\Desktop\\repos\\KanyeAndRon\\KanyeAndRon\\Program.cs",
               "RelativeToolTip": "KanyeAndRon\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T16:38:06.51Z",
               "EditorCaption": ""
