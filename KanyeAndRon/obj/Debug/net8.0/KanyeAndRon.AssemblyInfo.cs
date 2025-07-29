@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KanyeAndRon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd801caa8ac5f0c50fd699f92d14f38e8f99e13b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9689a40821fa2d8b00f8d3b1f7416c6fb73c839a")]
 [assembly: System.Reflection.AssemblyProductAttribute("KanyeAndRon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KanyeAndRon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,8 +8,19 @@ namespace KanyeAndRon
         static void Main(string[] args) 
         {
             QuoteGenerator.KanyeQuote();
-            QuoteGenerator.KanyeQuote();
+            QuoteGenerator.RonQuote();
 
+            QuoteGenerator.KanyeQuote();
+            QuoteGenerator.RonQuote();
+
+            QuoteGenerator.KanyeQuote();
+            QuoteGenerator.RonQuote();
+
+            QuoteGenerator.KanyeQuote();
+            QuoteGenerator.RonQuote();
+
+            QuoteGenerator.KanyeQuote();
+            QuoteGenerator.RonQuote();
         }
     }
 }
